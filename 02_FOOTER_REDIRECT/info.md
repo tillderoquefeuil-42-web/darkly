@@ -1,4 +1,4 @@
-# RECOVER PASSWORD
+# FOOTER REDIRECTION
 
 ## The flag
 
