@@ -33,7 +33,7 @@ sh256('albatroz')
 
 ## How to use it ?
 
-Dumb and get all database infos
+Dump and get all database infos
 
 
 ## How to avoid it ?
