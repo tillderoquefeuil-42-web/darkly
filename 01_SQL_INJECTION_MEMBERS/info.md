@@ -8,7 +8,7 @@ THE FLAG IS : 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
 
 ## How to find it ?
 
-On the page http://10.12.1.121/index.php?page=member
+On the page http://{IP_ADDRESS}/index.php?page=member
 
 The search member form may reach an SQL request that looks like this :
 SELECT last_name, first_name FROM Users WHERE Id=
