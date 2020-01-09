@@ -10,6 +10,8 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 
 ## table of contents
 * [Installation](#installation)
+* [00_RECOVER_PASSWORD](https://github.com/tillderoquefeuil/darkly/blob/master/00_RECOVER_PASSWORD/info.md)
+
 
 ## Installation <a id="installation"></a>
 - New VM - Type : Linux - Version : (Oracle 32-bit)
