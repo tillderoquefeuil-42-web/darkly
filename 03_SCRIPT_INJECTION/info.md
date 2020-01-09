@@ -1,4 +1,4 @@
-# XSS INJECTION
+# SCRIPT INJECTION
 
 ## The flag
 
