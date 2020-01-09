@@ -1,17 +1,17 @@
 #!/bin/bash
 
-keyword="flag"
 regex="href=\"[A-z]*"
 baseUrl="http://10.11.200.193/.hidden/"
-flag=""
+found=""
 
 total=18279
 current=0
 
 searchFlag() {
     local url=$(echo "$1")
+    # echo "$url"
 
-    if [ ! -z "$flag" -a "$flag" != " " ]; then
+    if [ ! -z "$found" -a "$found" != " " ]; then
         return
     fi
 
@@ -19,10 +19,10 @@ searchFlag() {
 
     # TEST IF FLAG IS HERE
     if [ "$2" == 1 ]; then
-        local tmp=$(echo $response | grep -E "[0-9]+" tmp)
+        local tmp=$(echo $response | grep -E "[0-9][0-9]+")
 
         if [ ! -z "$tmp" ]; then
-            flag=$(echo $tmp)
+            found=$(echo $tmp)
             return
         fi
     fi
@@ -45,4 +45,5 @@ searchFlag() {
 
 
 searchFlag $baseUrl
-echo "THE FLAG IS : $flag"
+echo ""
+echo "THE FLAG IS : $found"
