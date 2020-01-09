@@ -10,17 +10,14 @@ current=0
 
 searchFlag() {
     local url=$(echo "$1")
-    # echo "***** URL is $url *****"
 
-    # if [ ! -z "$flag" -a "$flag" != " " ]; then
-    #     return
-    # fi
+    if [ ! -z "$flag" -a "$flag" != " " ]; then
+        return
+    fi
 
     local response=$(curl -s $url)
-    # echo "$response"
 
     # TEST IF FLAG IS HERE
-
     if [ "$2" == 1 ]; then
         local tmp=$(echo $response | grep -E "[0-9]+" tmp)
 
@@ -31,16 +28,13 @@ searchFlag() {
     fi
 
     local array=($( echo $response | grep -o "$regex" | sed "s/href=\"//" | awk 'NF'))
-    # echo ${array[*]}
 
     for i in "${array[@]}"
     do
         # echo $i
         if [ "$i" != "" -a "$i" != "README" ]; then
-            # echo "$url$i/"
             searchFlag "$url$i/"
         elif [ "$i" != "" -a "$i" == "README" ]; then
-            # echo "$url$i"
             searchFlag "$url$i" 1
             current=$((current+1))
             echo -ne "Current progress : $(((current * 100) / total))%\r"
@@ -51,5 +45,4 @@ searchFlag() {
 
 
 searchFlag $baseUrl
-echo $current
-echo $flag
+echo "THE FLAG IS : $flag"
