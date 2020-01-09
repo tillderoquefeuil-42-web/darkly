@@ -32,8 +32,8 @@ http://10.11.200.193/index.php?page=e43ad1fdc54babe674da7c7b8f0127bde61de3fbe01d
 
 ## How to use it ?
 
-This is no a security breach
+This is not a security breach
 
 ## How to avoid it ?
 
-This is no a security breach
+This is not a security breach
