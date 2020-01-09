@@ -1,4 +1,4 @@
-# MEDIA REQUEST
+# WEBSITE ARCHITECTURE
 
 ## The flag
 
