@@ -10,6 +10,10 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 
 ## table of contents
 * [Installation](#installation)
+* [BRUTE FORCE ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/BRUTE_FORCE_ATTACK/Ressources/man.md)
+* [SESSION HIJACKING ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING_ATTACK/Ressources/man.md)
+
+break
 
 * [RECOVER_PASSWORD](https://github.com/tillderoquefeuil/darkly/blob/master/RECOVER_PASSWORD/Ressources/man.md)
 * [SQL_INJECTION_MEMBERS](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_MEMBERS/Ressources/man.md)
@@ -23,9 +27,6 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 * [WEBSITE_ARCHITECTURE](https://github.com/tillderoquefeuil/darkly/blob/master/WEBSITE_ARCHITECTURE/Ressources/man.md)
 * [HIDDEN_README](https://github.com/tillderoquefeuil/darkly/blob/master/HIDDEN_README/Ressources/man.md)
 * [HTPASSWD](https://github.com/tillderoquefeuil/darkly/blob/master/HTPASSWD/Ressources/man.md)
-
-* [BRUTE FORCE ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/BRUTE_FORCE_ATTACK/Ressources/man.md)
-* [SESSION HIJACKING ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING_ATTACK/Ressources/man.md)
 
 ## Installation <a id="installation"></a>
 - New VM - Type : Linux - Version : (Oracle 32-bit)
