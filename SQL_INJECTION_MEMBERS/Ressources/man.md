@@ -39,10 +39,10 @@ sh256('fortytwo')
 > and in some cases issue commands to the operating system
 
 ## Prevention
-> Use of Prepared Statements (with Parameterized Queries) \
-> Use of Stored Procedures \
-> Whitelist Input Validation \
-> Escaping All User Supplied Input
+> use of prepared statements (with parameterized queries) \
+> use of stored procedures \
+> whitelist input validation \
+> escaping all user supplied input
 
 ## Documentation
 - [owasp - SQL injection](https://www.owasp.org/index.php/SQL_Injection)

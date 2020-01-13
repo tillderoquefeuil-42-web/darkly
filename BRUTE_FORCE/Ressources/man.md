@@ -1,4 +1,4 @@
-# BRUTE_FORCE_ATTACK
+# BRUTE FORCE
 
 ## Flag
 ```

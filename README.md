@@ -10,14 +10,14 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 
 ## table of contents
 * [Installation](#installation)
-* [BRUTE FORCE ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/BRUTE_FORCE_ATTACK/Ressources/man.md)
+* [BRUTE FORCE](https://github.com/tillderoquefeuil/darkly/blob/master/BRUTE_FORCE/Ressources/man.md)
 * [DATA VALIDATION HIDDEN FIELD](https://github.com/tillderoquefeuil/darkly/blob/master/DATA_VALIDATION_HIDDEN_FIELD/Ressources/man.md)
 * [DATA VALIDATION SELECT](https://github.com/tillderoquefeuil/darkly/blob/master/DATA_VALIDATION_SELECT/Ressources/man.md)
 * [INVALIDATED REDIRECTS](https://github.com/tillderoquefeuil/darkly/blob/master/INVALIDATED_REDIRECTS/Ressources/man.md)
 * [PATH TRAVERSAL](https://github.com/tillderoquefeuil/darkly/blob/master/PATH_TRAVERSAL/Ressources/man.md)
 * [ROBOTS HIDDEN](https://github.com/tillderoquefeuil/darkly/blob/master/ROBOTS_HIDDEN/Ressources/man.md)
 * [ROBOTS HTPASSWD](https://github.com/tillderoquefeuil/darkly/blob/master/ROBOTS_HTPASSWD/Ressources/man.md)
-* [SESSION HIJACKING ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING_ATTACK/Ressources/man.md)
+* [SESSION HIJACKING](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING/Ressources/man.md)
 * [SQL INJECTION IMAGE](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_IMAGE/Ressources/man.md)
 * [SQL INJECTION MEMBERS](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_MEMBERS/Ressources/man.md)
 * [UNRESTRICTED FILE UPLOAD](https://github.com/tillderoquefeuil/darkly/blob/master/UNRESTRICTED_FILE_UPLOAD/Ressources/man.md)

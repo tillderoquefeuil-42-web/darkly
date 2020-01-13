@@ -22,14 +22,14 @@ http://{IP_ADDRESS}/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgid3
 > the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site
 
 ## Prevention
-> - Never Insert Untrusted Data Except in Allowed Locations
-> - HTML Escape Before Inserting Untrusted Data into HTML Element Content
-> - Attribute Escape Before Inserting Untrusted Data into HTML Common Attributes
-> - JavaScript Escape Before Inserting Untrusted Data into JavaScript Data Values
-> - CSS Escape And Strictly Validate Before Inserting Untrusted Data into HTML Style Property Values
-> - URL Escape Before Inserting Untrusted Data into HTML URL Parameter Values
-> - Sanitize HTML Markup with a Library Designed for the Job
-> - Avoid JavaScript URL's
+> - never insert untrusted data except in allowed locations
+> - HTML escape before inserting untrusted data into HTML element content
+> - attribute escape before inserting untrusted data into HTML common attributes
+> - javascript escape before inserting untrusted data into javascript data values
+> - CSS escape and strictly validate before inserting untrusted data into HTML style property values
+> - URL escape before inserting untrusted data into HTML URL parameter values
+> - sanitize HTML markup with a library designed for the job
+> - avoid javascript URL's
 
 ## Documentation
 - [owasp - XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
