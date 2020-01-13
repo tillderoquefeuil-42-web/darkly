@@ -1,4 +1,4 @@
-# DATA_VALIDATION
+# DATA_VALIDATION_SELECT
 
 ## Flag
 ```
@@ -24,7 +24,8 @@ Change *value="__10__"* and select it
 > Data validation strategies (Accept known good, Reject known bad, Sanitize)
 
 ## Documentation
-- [owasp - data validation](https://www.owasp.org/index.php/Data_Validation#Where_to_include_business_rule_validation)
+- [owasp - data validation - business rule validation](https://www.owasp.org/index.php/Data_Validation#Where_to_include_business_rule_validation)
+- [owasp - data validation - select tampering](https://www.owasp.org/index.php/Data_Validation#Selects.2C_radio_buttons.2C_and_checkboxes)
 
 ---
 

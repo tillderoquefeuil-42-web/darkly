@@ -11,7 +11,8 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 ## table of contents
 * [Installation](#installation)
 * [BRUTE FORCE ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/BRUTE_FORCE_ATTACK/Ressources/man.md)
-* [DATA VALIDATION](https://github.com/tillderoquefeuil/darkly/blob/master/DATA_VALIDATION/Ressources/man.md)
+* [DATA VALIDATION HIDDEN FIELD](https://github.com/tillderoquefeuil/darkly/blob/master/DATA_VALIDATION_HIDDEN_FIELD/Ressources/man.md)
+* [DATA VALIDATION SELECT](https://github.com/tillderoquefeuil/darkly/blob/master/DATA_VALIDATION_SELECT/Ressources/man.md)
 * [HIDDEN ROBOTS](https://github.com/tillderoquefeuil/darkly/blob/master/HIDDEN_ROBOTS/Ressources/man.md)
 * [INVALIDATED REDIRECTS](https://github.com/tillderoquefeuil/darkly/blob/master/INVALIDATED_REDIRECTS/Ressources/man.md)
 * [SESSION HIJACKING ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING_ATTACK/Ressources/man.md)
@@ -20,7 +21,6 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 
 break
 
-* [RECOVER_PASSWORD](https://github.com/tillderoquefeuil/darkly/blob/master/RECOVER_PASSWORD/Ressources/man.md)
 * [SQL_INJECTION_MEMBERS](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_MEMBERS/Ressources/man.md)
 * [SCRIPT_INJECTION](https://github.com/tillderoquefeuil/darkly/blob/master/SCRIPT_INJECTION/Ressources/man.md)
 * [SQL_INJECTION_IMAGE](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_IMAGE/Ressources/man.md)
