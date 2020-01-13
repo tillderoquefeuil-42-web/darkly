@@ -8,7 +8,7 @@ b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2
 ## Discovery
 On the page http://{IP_ADDRESS}/?page=signin
 
-Run a script that brut force the signin request by testing one by one common password
+Run a script that brut force the signin request by testing one by one common password \
 For username **admin**, password is **_shadow_**
 
 ## Use

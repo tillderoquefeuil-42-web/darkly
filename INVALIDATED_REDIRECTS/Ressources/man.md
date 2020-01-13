@@ -8,7 +8,7 @@ B9E775A0291FED784A2D9680FCFAD7EDD6B8CDF87648DA647AAF4BBA288BCAB3
 ## Discovery
 On the page http://{IP_ADDRESS}/
 
-Inspect the social networks icons
+Inspect the social networks icons \
 Change *site=__facebook__* and click on the icon
 ```diff
 # element inspector

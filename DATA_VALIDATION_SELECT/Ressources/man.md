@@ -8,7 +8,7 @@
 ## Discovery
 On the page http://{IP_ADDRESS}/index.php?page=survey
 
-Inspect any grade input
+Inspect any grade input \
 Change *value="__10__"* and select it
 ```diff
 # element inspector

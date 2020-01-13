@@ -8,7 +8,7 @@
 ## Discovery
 On the page http://{IP_ADDRESS}/?page=recover
 
-Inspect the submit form
+Inspect the submit form \
 There is the webmaster email here
 ```
 <input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15">

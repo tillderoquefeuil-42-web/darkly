@@ -6,8 +6,8 @@
 ```
 
 ## Discovery
-On the page http://{IP_ADDRESS}/robots.txt
-Then go to http://{IP_ADDRESS}/.hidden
+On the page http://{IP_ADDRESS}/robots.txt \
+Then go to http://{IP_ADDRESS}/.hidden \
 With a script, open all README in order to find the good one
 
 ## Use
