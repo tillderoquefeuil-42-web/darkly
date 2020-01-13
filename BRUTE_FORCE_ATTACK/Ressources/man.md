@@ -12,11 +12,11 @@ Run a script that brut force the signin request by testing one by one common pas
 For username **admin**, password is **_shadow_**
 
 ## Use
-> Theft of personal information such as passwords, passphrases and other information used to access online accounts and network resources \
-> Harvesting credentials to sell to third parties \
-> Posing as users to send phishing links or spread fake content \
-> Defacement of websites and other information in the public domain that could damage the reputation of the organization \
-> Redirecting domains to sites holding malicious content
+> - Theft of personal information such as passwords, passphrases and other information used to access online accounts and network resources
+> - Harvesting credentials to sell to third parties
+> - Posing as users to send phishing links or spread fake content
+> - Defacement of websites and other information in the public domain that could damage the reputation of the organization
+> - Redirecting domains to sites holding malicious content
 
 ## Prevention
 > \[...] Against online attacks, \[...] limiting the number of attempts that a password can be tried, 
