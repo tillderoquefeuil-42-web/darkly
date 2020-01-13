@@ -17,11 +17,11 @@ https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 * [ROBOTS HIDDEN](https://github.com/tillderoquefeuil/darkly/blob/master/ROBOTS_HIDDEN/Ressources/man.md)
 * [ROBOTS HTPASSWD](https://github.com/tillderoquefeuil/darkly/blob/master/ROBOTS_HTPASSWD/Ressources/man.md)
 * [SESSION HIJACKING ATTACK](https://github.com/tillderoquefeuil/darkly/blob/master/SESSION_HIJACKING_ATTACK/Ressources/man.md)
+* [XSS MEDIAS REQUEST](https://github.com/tillderoquefeuil/darkly/blob/master/XSS_MEDIAS_REQUEST/Ressources/man.md)
 * [FT BORNTOSEC](https://github.com/tillderoquefeuil/darkly/blob/master/FT_BORNTOSEC/Ressources/man.md)
 
 break
 
-* [MEDIA_REQUEST](https://github.com/tillderoquefeuil/darkly/blob/master/MEDIA_REQUEST/Ressources/man.md)
 * [SCRIPT_INJECTION](https://github.com/tillderoquefeuil/darkly/blob/master/SCRIPT_INJECTION/Ressources/man.md)
 * [SQL_INJECTION_MEMBERS](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_MEMBERS/Ressources/man.md)
 * [SQL_INJECTION_IMAGE](https://github.com/tillderoquefeuil/darkly/blob/master/SQL_INJECTION_IMAGE/Ressources/man.md)
