@@ -32,4 +32,4 @@ Change *site=__facebook__* and click on the icon
 
 ---
 
-[RETURN](https://github.com/tillderoquefeuil/darkly)
+[RETURN](https://github.com/tillderoquefeuil/darkly#readme)

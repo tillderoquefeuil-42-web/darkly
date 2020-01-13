@@ -34,4 +34,4 @@ Finaly http://{IP_ADDRESS}/admin and enter *root:dragon*
 
 ---
 
-[RETURN](https://github.com/tillderoquefeuil/darkly)
+[RETURN](https://github.com/tillderoquefeuil/darkly#readme)

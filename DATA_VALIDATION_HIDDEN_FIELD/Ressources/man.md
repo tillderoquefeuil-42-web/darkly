@@ -26,4 +26,4 @@ There is the webmaster email here
 
 ---
 
-[RETURN](https://github.com/tillderoquefeuil/darkly)
+[RETURN](https://github.com/tillderoquefeuil/darkly#readme)

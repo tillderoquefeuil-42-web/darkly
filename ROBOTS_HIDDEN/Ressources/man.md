@@ -24,4 +24,4 @@ With a script, open all README in order to find the good one
 
 ---
 
-[RETURN](https://github.com/tillderoquefeuil/darkly)
+[RETURN](https://github.com/tillderoquefeuil/darkly#readme)

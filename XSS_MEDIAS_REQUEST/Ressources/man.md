@@ -38,4 +38,4 @@ http://{IP_ADDRESS}/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgid3
 
 ---
 
-[RETURN](https://github.com/tillderoquefeuil/darkly)
+[RETURN](https://github.com/tillderoquefeuil/darkly#readme)
